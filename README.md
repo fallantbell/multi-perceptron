@@ -1,1 +1,4 @@
-# multi-perceptron
+# multi-perceptron(多層感知機)  
+可以選擇隱藏層層數和神經元數量  
+但是目前結果還有點問題  
+只有XOR可以成功的完全分辨 ఠ_ఠ    
